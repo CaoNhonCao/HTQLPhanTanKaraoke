@@ -1,0 +1,127 @@
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.csproj.ResolveComReference.cache
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.BaoTri.frmEditBaoTri.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.BaoTri.frmLichSuBaoTri.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.TrangChu.frmKhachHang.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.DMKhachHang.frmSuaTTKhach.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.DMKhachHang.frmThemKhach.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.DMKhachHang.frmXoaKhach.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.frmCaiDatHeThong.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.frmMain.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.frmThongTinChiNhanh.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.HoaDon.frmQLHoaDon.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmChonDichVu.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmDatPhong.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmDichVu.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmDichVuHienTai.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmDonHangHienTai.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmHoaDon.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmLichSuDatPhong.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmOrder.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmOrderDetails.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmPhongThuongDan.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmSuaPhong.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmThemPhongChoThuongDan.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.Properties.Resources.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLChiPhi.frmQLChiPhi.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLChiPhi.frmSuaChiPhi.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLChiPhi.frmThemChiPhi.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLDV.frmQLDV.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLDV.frmSuaDichVu.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLDV.frmThemDichVu.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmQLChamCong.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmQLNV.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmQuanLyLuong.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmSuaNhanVien.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmThemNhanVien.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmLichSuNhanLuong.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmThongKeLuong.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLSP_Kho.frmCanhBao.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLSP_Kho.frmQLSP_Kho.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLSP_Kho.frmSuaSanPham.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLSP_Kho.frmThemSanPham.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLSP_Kho.frmThongKeSanPham.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.csproj.GenerateResource.Cache
+D:\HTQLKaraoke\HTQLKaraoke\bin\Debug\HTQLKaraoke.exe.config
+D:\HTQLKaraoke\HTQLKaraoke\bin\Debug\HTQLKaraoke.exe
+D:\HTQLKaraoke\HTQLKaraoke\bin\Debug\HTQLKaraoke.pdb
+D:\HTQLKaraoke\HTQLKaraoke\bin\Debug\BouncyCastle.Crypto.dll
+D:\HTQLKaraoke\HTQLKaraoke\bin\Debug\itextsharp.dll
+D:\HTQLKaraoke\HTQLKaraoke\bin\Debug\itextsharp.xml
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.exe
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.pdb
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmDanhGiaKH.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\bin\Debug\HTQLKaraoke.exe.config
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.csproj.ResolveComReference.cache
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.exe
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.pdb
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\bin\Debug\HTQLKaraoke.exe
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\bin\Debug\HTQLKaraoke.pdb
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\bin\Debug\BouncyCastle.Crypto.dll
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\bin\Debug\itextsharp.dll
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\bin\Debug\itextsharp.xml
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.csprojResolveAssemblyReference.cache
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.BaoTri.frmEditBaoTri.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.BaoTri.frmLichSuBaoTri.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.TrangChu.frmKhachHang.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.DMKhachHang.frmSuaTTKhach.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.DMKhachHang.frmThemKhach.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.DMKhachHang.frmXoaKhach.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.frmCaiDatHeThong.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.frmMain.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.frmThongTinChiNhanh.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.HoaDon.frmQLHoaDon.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmChonDichVu.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmDanhGiaKH.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmDatPhong.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmDichVu.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmDichVuHienTai.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmDonHangHienTai.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmHoaDon.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmLichSuDatPhong.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmOrder.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmOrderDetails.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmPhongThuongDan.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmSuaPhong.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmThemPhongChoThuongDan.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.Properties.Resources.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLChiPhi.frmQLChiPhi.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLChiPhi.frmSuaChiPhi.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLChiPhi.frmThemChiPhi.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLDV.frmQLDV.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLDV.frmSuaDichVu.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLDV.frmThemDichVu.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmQLChamCong.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmQLNV.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmQuanLyLuong.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmSuaNhanVien.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmThemNhanVien.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmLichSuNhanLuong.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLNV.frmThongKeLuong.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLSP_Kho.frmCanhBao.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLSP_Kho.frmQLSP_Kho.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLSP_Kho.frmSuaSanPham.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLSP_Kho.frmThemSanPham.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.QLSP_Kho.frmThongKeSanPham.resources
+D:\Thư mục mới\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.csproj.GenerateResource.Cache
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.DanhGia.frmTTDanhGia.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.NhapHang.frmNhapHang.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.NhaCungCap.frmNhaCungCap.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.NhaCungCap.frmThem.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.NhaCungCap.frmSua.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.NhapHang.frmQLNhapHang.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.NhapHang.frmSuaNhapHang.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.NhatKyHD.frmNhatKyHD.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.NhatKyHD.frmThemHoatDong.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.NhatKyHD.frmSuaHoatDong.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.ThongKe.frmThongKe.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.ThongKe.frmCapNhat.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.csproj.AssemblyReference.cache
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.csproj.CoreCompileInputs.cache
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKara.60CB424A.Up2Date
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.TroGiup.frmLienHe.resources
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.PhongHat.frmLuaChon.resources
+D:\HTQLKaraoke\HTQLKaraoke\bin\Debug\Interop.WMPLib.dll
+D:\HTQLKaraoke\HTQLKaraoke\bin\Debug\AxInterop.WMPLib.dll
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\Interop.WMPLib.dll
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\AxInterop.WMPLib.dll
+D:\HTQLKaraoke\HTQLKaraoke\obj\Debug\HTQLKaraoke.SplitterForm.resources
